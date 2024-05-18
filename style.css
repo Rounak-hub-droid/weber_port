@@ -125,7 +125,7 @@ li.navlink>a:hover{
         padding-top: 7px;
     }
 }
-@media screen and (max-width:375px){
+@media screen and (max-width:426px){
     .image>img{
         width: 250px;
     }   
@@ -165,7 +165,7 @@ li.navlink>a:hover{
         font-size: 1rem;
     }
 }
-@media screen and (max-width:320px){
+@media screen and (max-width:321px){
     .image>img{
         width: 190px;
     }
